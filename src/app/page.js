@@ -48,7 +48,7 @@ export default function Home() {
 
     <section className="banner-img">
       <div className="section-bg">
-        <img src="/img_2.png" alt=""></img>
+        <img src="img_2.png" alt=""></img>
       </div>
     </section>
 
@@ -65,7 +65,7 @@ export default function Home() {
   
     <section className="banner-img">
       <div className="section-bg">
-        <img src="/img_3.jpeg" alt=""></img>
+        <img src="img_3.jpg" alt=""></img>
       </div>
     </section>
 
